@@ -10,7 +10,7 @@ def fetch_data_from_db():
         cnx = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="#Guna@80",  # Use your actual database password
+            password="-----",  # Use your actual database password
             database="new_db"
         )
 
