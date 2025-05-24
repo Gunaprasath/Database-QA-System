@@ -1,1 +1,1 @@
-# Database-QA-System
+# Inventory Management Using LLM
